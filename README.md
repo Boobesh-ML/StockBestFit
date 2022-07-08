@@ -21,7 +21,7 @@ share price"
 
 Data Visualization using various charts namely
 
-    * Line chart
+* Line chart
 
 ![](output.png)
 
