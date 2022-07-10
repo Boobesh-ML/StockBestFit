@@ -62,9 +62,11 @@ share price"
     ![](images/Sarima.jpg)
 * FB Prophet
     * The Prophet library is an open-source library designed for making forecasts for univariate 
-    time series datasets
+    time series datasets.
 
-* Deployment:
+## Evaluating Root Mean Squared Error(RMSE) Value
+
+## Deployment:
     * Deployment is the method by which you integrate a machine learning model into an existing 
     production environment to make practical business decisions based on data.
     * As the last stages of my Time Series project cycle, I have written a program to automate the buying and selling of stocks in the Trading View website using Selenium.
