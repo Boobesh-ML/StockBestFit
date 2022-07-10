@@ -23,7 +23,7 @@ share price"
 
 * Line chart
 
-![](images/output.png)
+  ![](images/output.png)
 
 ## Base models
 
