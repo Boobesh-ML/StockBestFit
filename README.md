@@ -64,7 +64,8 @@ share price"
     * The Prophet library is an open-source library designed for making forecasts for univariate 
     time series datasets.
 
-## Evaluating Root Mean Squared Error(RMSE) Value
+## Evaluating Root Mean Squared Error(RMSE) Value 
+![Evaluating Root Mean Squared Error(RMSE) Value](images/Score_card.jpg)
 
 ## Deployment
     * Deployment is the method by which you integrate a machine learning model into an existing 
